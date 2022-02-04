@@ -146,7 +146,7 @@ ul {
 		text-indent: -.7em;
 	}
 	li:before {
-		content: "• ";
+		content: "â€¢ ";
 		color: #837c9a;
 		font-size: 20px;
 		padding-right: 8px;
@@ -268,7 +268,7 @@ ul {
 .profile_frame{
 	width: 230px;
 	height: 260px;
-	background: black;
+	background: #000000;
 	border: 1px solid #403F44;
 	margin-top: 30px;
 }
